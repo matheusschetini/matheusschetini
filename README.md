@@ -1,17 +1,14 @@
+
 Hi, Matheus Schetini Here 👋
-I'm Learning 
-![Vscode logo](https://camo.githubusercontent.com/3b0aa009716b20018a683fea7d5babb79de77fdb40279cbb1f8e862a813900b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3233413946323f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d7768697465)
+
+Learning Web Development. Languages/Skills - HTML, CSS and JS  
 
 
-✨ Crafted last Laracon Online website;
-🇵🇹 Planing the "Tuga-Co-Op";
-🍑 What about this?
-BIO
-🏢 I'm currently working at Medicare Portugal
-⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
-🌍 I'm mostly active within the Laravel Community
-💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
-🌱 Learning all about Open Source
-💬 Ping me about design, branding, laravel, development, design thinking
-📫 Reach me: twitter.com/caneco
-⚡️ Fun fact: I'm a huge fan of Harry Potter
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
+   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
